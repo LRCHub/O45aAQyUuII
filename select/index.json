@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Let's Get It",
+  "base_artist": "eyden",
+  "createdAt": "2026-02-11T07:55:39.563535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Get It Right",
+      "artist": "Röyksopp feat. Astrid S",
+      "has_synced": true,
+      "path": "select/01_Let's_Get_It_Right_Röyksopp_feat._Astrid_S.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Get It Right",
+      "artist": "Röyksopp",
+      "has_synced": true,
+      "path": "select/02_Let's_Get_It_Right_Röyksopp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Get It Right (Altitude Remix)",
+      "artist": "Krystal K",
+      "has_synced": false,
+      "path": "select/03_Let's_Get_It_Right_(Altitude_Remix)_Krystal_K.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/04_Let's_Get_It_On_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "The Power Station",
+      "has_synced": false,
+      "path": "select/05_Let's_Get_It_On_The_Power_Station.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let’s Get It On 99",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/06_Let’s_Get_It_On_99_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bitches & Bottles (Let's Get It Started)",
+      "artist": "DJ Khaled feat. Lil Wayne, T.I. & Future",
+      "has_synced": true,
+      "path": "select/07_Bitches_&_Bottles_(Let's_Get_It_Started)_DJ_Khaled_feat._Lil_Wayne,_T.I._&_Future.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bitches & Bottles (Let's Get It Started) (Feat. Lil Wayne, T.I., Future)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/08_Bitches_&_Bottles_(Let's_Get_It_Started)_(Feat._Lil_Wayne,_T.I.,_Future)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/09_Let's_Get_It_On_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let's Get It Started",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/10_Let's_Get_It_Started_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let's Get It Started (Album)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/11_Let's_Get_It_Started_(Album)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Get It Started (Radio Version)",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/12_Let's_Get_It_Started_(Radio_Version)_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let's Get It Started (Radio)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/13_Let's_Get_It_Started_(Radio)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Get It Started - Spike Mix",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/14_Let's_Get_It_Started_-_Spike_Mix_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let's Get It Started (Spike Mix)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/15_Let's_Get_It_Started_(Spike_Mix)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let's Get It Up",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/16_Let's_Get_It_Up_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "マーヴィン・ゲイ",
+      "has_synced": true,
+      "path": "select/17_Let's_Get_It_On_マーヴィン・ゲイ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/18_Let's_Get_It_On_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let's Get It",
+      "artist": "eyden, guca owl",
+      "has_synced": false,
+      "path": "select/pl_01_Let's_Get_It_eyden,_guca_owl.txt"
+    }
+  ]
+}
